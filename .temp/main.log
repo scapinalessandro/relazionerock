@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.9.4)  4 SEP 2024 14:50
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.9.4)  4 SEP 2024 15:10
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1357,16 +1357,16 @@ Package textcomp Info: Symbol \textohm not provided by
 (textcomp)             font family ntxtlf in TS1 encoding.
 (textcomp)             Default family used instead on input line 26.
 LaTeX Font Info:    Font shape `OT1/ntxtlf/b/n' will be
-(Font)              scaled to size 12.0pt on input line 33.
+(Font)              scaled to size 12.0pt on input line 36.
 <imgs/schema_page-0001.jpg, id=4, 641.7576pt x 495.2904pt>
 File: imgs/schema_page-0001.jpg Graphic file (type jpg)
 <use imgs/schema_page-0001.jpg>
-Package pdftex.def Info: imgs/schema_page-0001.jpg  used on input line 52.
+Package pdftex.def Info: imgs/schema_page-0001.jpg  used on input line 55.
 (pdftex.def)             Requested size: 386.95897pt x 298.64268pt.
 <imgs/BIMBIMBBAMBAM.png, id=5, 616.55344pt x 368.87813pt>
 File: imgs/BIMBIMBBAMBAM.png Graphic file (type png)
 <use imgs/BIMBIMBBAMBAM.png>
-Package pdftex.def Info: imgs/BIMBIMBBAMBAM.png  used on input line 58.
+Package pdftex.def Info: imgs/BIMBIMBBAMBAM.png  used on input line 61.
 (pdftex.def)             Requested size: 386.95897pt x 231.51637pt.
  [1{C:/Users/scaponch/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/User
 s/scaponch/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/newtx/ntx-ot1-tlf.enc}
@@ -1387,7 +1387,7 @@ LaTeX Warning: There were multiply-defined labels.
 Here is how much of TeX's memory you used:
  50446 strings out of 474486
  1297869 string characters out of 5742340
- 2025674 words of memory out of 5000000
+ 2026674 words of memory out of 5000000
  72022 multiletter control sequences out of 15000+600000
  576758 words of font info for 126 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1398,7 +1398,7 @@ tex-gyre/qtmr.pfb><C:/Users/scaponch/AppData/Local/Programs/MiKTeX/fonts/type1/
 public/newtx/ztmb.pfb><C:/Users/scaponch/AppData/Local/Programs/MiKTeX/fonts/ty
 pe1/public/newtx/ztmr.pfb>
 Output written on "C:\Users\scaponch\Documents\DOCS\Relazione contatore 2 cifre
- scapin\.temp\main.pdf" (3 pages, 304275 bytes).
+ scapin\.temp\main.pdf" (3 pages, 304471 bytes).
 PDF statistics:
  39 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
