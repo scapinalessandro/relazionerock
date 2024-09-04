@@ -1,7 +1,7 @@
-PWD C:\Users\scaponch\Documents\DOCS\Relazione contatore 2 cifre scapin
+PWD C:\Users\scaponch\Desktop\relazionerock
 INPUT C:\Users\scaponch\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Users\scaponch\Documents\DOCS\Relazione contatore 2 cifre scapin\main.tex
-OUTPUT C:\Users\scaponch\Documents\DOCS\Relazione contatore 2 cifre scapin\.temp\main.log
+INPUT c:\Users\scaponch\Desktop\relazionerock\main.tex
+OUTPUT C:\Users\scaponch\Desktop\relazionerock\.temp\main.log
 INPUT .\RelazioneLab.cls
 INPUT RelazioneLab.cls
 INPUT C:\Users\scaponch\AppData\Local\Programs\MiKTeX\tex\latex\etoolbox\etoolbox.sty
@@ -327,10 +327,10 @@ INPUT C:\Users\scaponch\AppData\Local\Programs\MiKTeX\tex\latex\newtx\ot1ntxtlf.
 INPUT C:\Users\scaponch\AppData\Local\Programs\MiKTeX\tex\latex\newtx\ot1ntxtlf.fd
 INPUT C:\Users\scaponch\AppData\Local\Programs\MiKTeX\tex\latex\newtx\ot1ntxtlf.fd
 INPUT C:\Users\scaponch\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Regular-tlf-ot1.tfm
-INPUT C:\Users\scaponch\Documents\DOCS\Relazione contatore 2 cifre scapin\.temp\main.aux
-INPUT C:\Users\scaponch\Documents\DOCS\Relazione contatore 2 cifre scapin\.temp\main.aux
-INPUT C:\Users\scaponch\Documents\DOCS\Relazione contatore 2 cifre scapin\.temp\main.aux
-OUTPUT C:\Users\scaponch\Documents\DOCS\Relazione contatore 2 cifre scapin\.temp\main.aux
+INPUT C:\Users\scaponch\Desktop\relazionerock\.temp\main.aux
+INPUT C:\Users\scaponch\Desktop\relazionerock\.temp\main.aux
+INPUT C:\Users\scaponch\Desktop\relazionerock\.temp\main.aux
+OUTPUT C:\Users\scaponch\Desktop\relazionerock\.temp\main.aux
 INPUT C:\Users\scaponch\AppData\Local\Programs\MiKTeX\tex\latex\newtx\omlntxmi.fd
 INPUT C:\Users\scaponch\AppData\Local\Programs\MiKTeX\tex\latex\newtx\omlntxmi.fd
 INPUT C:\Users\scaponch\AppData\Local\Programs\MiKTeX\tex\latex\newtx\omlntxmi.fd
@@ -364,24 +364,8 @@ INPUT C:\Users\scaponch\AppData\Local\Programs\MiKTeX\tex\latex\newtx\ts1ntxtlf.
 INPUT C:\Users\scaponch\AppData\Local\Programs\MiKTeX\tex\latex\newtx\ts1ntxtlf.fd
 INPUT C:\Users\scaponch\AppData\Local\Programs\MiKTeX\tex\latex\newtx\ts1ntxtlf.fd
 INPUT C:\Users\scaponch\AppData\Local\Programs\MiKTeX\fonts\tfm\public\tex-gyre\ts1-qtmr.tfm
-INPUT C:\Users\scaponch\AppData\Local\Programs\MiKTeX\tex\latex\microtype\mt-cmr.cfg
-INPUT C:\Users\scaponch\AppData\Local\Programs\MiKTeX\tex\latex\microtype\mt-cmr.cfg
-INPUT C:\Users\scaponch\AppData\Local\Programs\MiKTeX\tex\latex\microtype\mt-cmr.cfg
-INPUT C:\Users\scaponch\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\tcrm1000.tfm
 INPUT C:\Users\scaponch\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Bold-tlf-ot1.tfm
-INPUT .\imgs\schema_page-0001.jpg
-INPUT .\imgs\schema_page-0001.jpg
-INPUT .\imgs\schema_page-0001.jpg
-OUTPUT C:\Users\scaponch\Documents\DOCS\Relazione contatore 2 cifre scapin\.temp\main.pdf
-INPUT .\imgs\schema_page-0001.jpg
-INPUT .\imgs\schema_page-0001.jpg
-INPUT .\imgs\schema_page-0001.jpg
-INPUT .\imgs\BIMBIMBBAMBAM.png
-INPUT .\imgs\BIMBIMBBAMBAM.png
-INPUT .\imgs\BIMBIMBBAMBAM.png
-INPUT .\imgs\BIMBIMBBAMBAM.png
-INPUT .\imgs\BIMBIMBBAMBAM.png
-INPUT .\imgs\BIMBIMBBAMBAM.png
+OUTPUT C:\Users\scaponch\Desktop\relazionerock\.temp\main.pdf
 INPUT C:\Users\scaponch\AppData\Local\Programs\MiKTeX\fonts\vf\public\newtx\ntx-Regular-tlf-ot1.vf
 INPUT C:\Users\scaponch\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\txmiaX.tfm
 INPUT C:\Users\scaponch\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Regular-tlf-ot1r.tfm
@@ -403,9 +387,19 @@ INPUT C:\Users\scaponch\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx
 INPUT C:\Users\scaponch\AppData\Local\Programs\MiKTeX\fonts\vf\public\newtx\ntx-Bold-tlf-ot1.vf
 INPUT C:\Users\scaponch\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\txbmiaX.tfm
 INPUT C:\Users\scaponch\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Bold-tlf-ot1r.tfm
-INPUT C:\Users\scaponch\Documents\DOCS\Relazione contatore 2 cifre scapin\.temp\main.aux
-INPUT C:\Users\scaponch\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1000.pk
-INPUT C:\Users\scaponch\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1000.pk
+INPUT .\imgs\schema_page-0001.jpg
+INPUT .\imgs\schema_page-0001.jpg
+INPUT .\imgs\schema_page-0001.jpg
+INPUT .\imgs\schema_page-0001.jpg
+INPUT .\imgs\schema_page-0001.jpg
+INPUT .\imgs\schema_page-0001.jpg
+INPUT .\imgs\BIMBIMBBAMBAM.png
+INPUT .\imgs\BIMBIMBBAMBAM.png
+INPUT .\imgs\BIMBIMBBAMBAM.png
+INPUT .\imgs\BIMBIMBBAMBAM.png
+INPUT .\imgs\BIMBIMBBAMBAM.png
+INPUT .\imgs\BIMBIMBBAMBAM.png
+INPUT C:\Users\scaponch\Desktop\relazionerock\.temp\main.aux
 INPUT C:\Users\scaponch\AppData\Local\Programs\MiKTeX\fonts\type1\public\tex-gyre\qtmr.pfb
 INPUT C:\Users\scaponch\AppData\Local\Programs\MiKTeX\fonts\type1\public\tex-gyre\qtmr.pfb
 INPUT C:\Users\scaponch\AppData\Local\Programs\MiKTeX\fonts\type1\public\newtx\ztmb.pfb
